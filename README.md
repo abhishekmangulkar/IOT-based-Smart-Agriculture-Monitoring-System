@@ -29,7 +29,7 @@ forcefully on IOT there is button given from where water pump can be forcefully 
 2.  Wi-Fi Modem
 3. Temperature Sensor
 4. Humidity Sensor
-5.Water Sensor
+5. Water Sensor
 6. Mini Exhaust Fan
 7. Water Pump
 8. Crystal OscillatorResistors
