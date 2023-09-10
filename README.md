@@ -43,3 +43,6 @@ forcefully on IOT there is button given from where water pump can be forcefully 
 16. Switch
 17. IC
 18. IC Socket
+
+![image](https://github.com/abhishekmangulkar/IOT-based-Smart-Agriculture-Monitoring-System./assets/125399029/798b4aa0-15a9-4b0d-942e-698e9fa12bc0)
+
